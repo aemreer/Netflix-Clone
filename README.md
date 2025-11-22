@@ -23,4 +23,4 @@ Projeyi yerel ortamda çalıştırmak için:
 git clone https://github.com/aemreer/netflix-clone.git
 cd netflix-clone
 npm install
-npm start
+npm run dev
